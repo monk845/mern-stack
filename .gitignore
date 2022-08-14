@@ -1,0 +1,10 @@
+node_modules
+.env
+
+#Install tools
+
+#npm install express --save
+#npm install --save-dev nodemon 
+#npm install cors
+#npm install mongoose
+#npm install morgan

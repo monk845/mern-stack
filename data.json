@@ -1,0 +1,47 @@
+
+
+{
+    "_id": ObjectId("62bb8b332306bbbfa6c29b35"),
+    "nombre": "Juan Deodanes",
+    "apellido": "Deodanes Benitezz",
+    "carnet": "25172120200",
+    "carrera": "Ingenieria en sistemas y computacionn",
+    "correo": "mdeodanes@utec.edu.svv",
+    "__v": 0
+},
+{
+    "_id": ObjectId("62bb8b012306bbbfa6c29b33"),
+    "nombre": "Gerson Deodanes",
+    "apellido": "Deodanes Benitez",
+    "carnet": "2516212021",
+    "carrera": "Ingenieria en sistemas y redes",
+    "correo": "gdeodanes@utec.edu.sv",
+    "__v": 0
+},
+{
+    "_id": ObjectId("62bb8afc2306bbbfa6c29b31"),
+    "nombre": "Douglas Deodanes",
+    "apellido": "Deodanes Benitez",
+    "carnet": "2517212020",
+    "carrera": "Ingenieria en sistemas y computacion",
+    "correo": "mdeodanes@utec.edu.sv",
+    "__v": 0
+},
+{
+    "_id": ObjectId("62bb84b875b357dc3f8179f6"),
+    "nombre": "Douglas Deodanes",
+    "apellido": "Deodanes Benitez",
+    "carnet": "2517212020",
+    "carrera": "Ingenieria en sistemas y computacion",
+    "correo": "mdeodanes@utec.edu.sv",
+    "__v": 0
+},
+{
+    "_id": ObjectId("62bb845f33bf9abb72118c1a"),
+    "nombre": "Douglas Deodanes",
+    "apellido": "Deodanes Benitez",
+    "carnet": "2517212020",
+    "carrera": "Ingenieria en sistemas y computacion",
+    "correo": "mdeodanes@utec.edu.sv",
+    "__v": 0
+}
